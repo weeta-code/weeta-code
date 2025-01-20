@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Victor!
 
-<!--
-**weeta-code/weeta-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building cool stuff
 
-Here are some ideas to get you started:
+about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎒 UMass Amherst class of 2028
+🧑🏽‍💻 Major in Computer Science
+🔭 I’m currently working on ... ESGenius an AI-powered portfolio optimization tool that integrates ESG scores and financial metrics to create sustainable, high-performing investment strategies.
+
+Languages/Skills(In order of proficiency):
+
+Python
+Lua
+C++/C
+C#
+Javascript
+HTML/CSS
+
+You can check me out here:
+
+LinkedIn: https://www.linkedin.com/in/victoradesouza/
+Instagram: https://www.instagram.com/vicst4r_
