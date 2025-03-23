@@ -6,7 +6,7 @@ I love building cool stuff
 
 * 🎒 UMass Amherst class of 2028
 * 🧑🏽‍💻 Major in Computer Science
-* 🔭 I’m currently working on ... ESGenius an AI-powered portfolio optimization tool that integrates ESG scores and financial metrics to create sustainable, high-performing investment strategies.
+* 🔭 I’m currently working on ... Project Newton; an AI powered, leetcode-like mathematics practice tool featuring mathematics from the undergrad level and beyond.
 
 ## Languages/Skills(In order of proficiency):
 
